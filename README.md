@@ -1,3 +1,7 @@
+# Fork
+This is fork of cpina/github-action-push-to-another-repository I forked this repository because I neded to add tag into commit.
+Everything other in this repository is only copy of original repository. Thanks for that.
+
 # github-action-push-to-another-repository
 
 Used to push generated files from a directory from Git Action step into another repository on Github. By design it deletes the files from the destination directory as it is meant to "publish" a set generated files.
